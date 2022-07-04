@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nguyentrungtins
-- 👀 I’m interested in AI, Web and Mobile
+- 👀 I’m interested in AI, Web and Mobile app
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on ReactJS project
 - 📫 How to reach me nguyentrungtin.org
