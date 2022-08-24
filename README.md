@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nguyentrungtins
 - 👀 I’m interested in AI, Web and Mobile app
 - 🌱 I’m currently working on ReactJS, NextJS
-- 💞️ I’m looking to collaborate on ReactJS, Next project
+- 💞️ I’m looking to collaborate on ReactJS, NextJS, NodeJS, Express project
 - 📫 How to reach me: www.nguyentrungtin.me
 
 <!---
