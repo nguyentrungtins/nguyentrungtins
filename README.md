@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nguyentrungtins
+- 👋 Hi, I’m @nguyentrungtins, a Fullstack Developer base in Saigon, Vietnam
 - 👀 I’m interested in AI, Web and Mobile app
-- 🌱 I’m currently working on ReactJS, NextJS
-- 💞️ I’m looking to collaborate on ReactJS, NextJS, NodeJS, Express project
+- 🌱 I’m currently working on ReactJS, NextJS, NestJS
+- 💞️ I’m looking to collaborate on ReactJS, NextJS, NodeJS, Express, NestJS project
 - 📫 How to reach me: www.nguyentrungtin.me
 
 <!---
